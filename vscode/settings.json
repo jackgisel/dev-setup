@@ -1,0 +1,19 @@
+{
+  "editor.fontFamily": "JetBrainsMono Nerd Font, Rec Mono Semicasual",
+  "editor.fontSize": 14,
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "editor.formatOnSave": true
+  },
+  "github.copilot.enable": {
+    "*": true,
+    "plaintext": false,
+    "markdown": false,
+    "scminput": false
+  },
+  "github.copilot.editor.enableAutoCompletions": true,
+  "workbench.editor.showTabs": "single",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.minimap.enabled": false
+}
